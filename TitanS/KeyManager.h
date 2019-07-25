@@ -14,7 +14,7 @@ private:
 	bool _keyDown[KEYMAX];
 
 public:
-	// 키 매니저 초기화
+	// 키 매니저 초기화. 
 	HRESULT init();
 	// 키 매니저 해제
 	void release();
