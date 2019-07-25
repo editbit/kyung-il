@@ -10,7 +10,7 @@ public:
 	virtual void render();
 
 
-      
+          
    
 	GameEndScene() {}
 	~GameEndScene() {}
